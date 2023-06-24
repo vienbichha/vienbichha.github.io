@@ -124,8 +124,7 @@ Public Administration Community
 
 Please reach out if you are interested in collaborating.
 
-[Ha B. Vien](https://www.linkedin.com/in/havien/)
-[Ph.D. Student](https://chass.ncsu.edu/people/bvien/)
+[Ha B. Vien](https://www.linkedin.com/in/havien/)- [Ph.D. Student](https://chass.ncsu.edu/people/bvien/)
 - Department of Public Administration
   School of Public and International Affairs 
   North Carolina State University
