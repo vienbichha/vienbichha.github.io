@@ -51,7 +51,9 @@
 ### Conference Presentations
 
 - Vien, Ha B. and Galik, C. (2023). Relationships and Spillovers: Higher Education Institutions and the Adoption of Community Sustainability Practices. North Carolina Political Science Association - North Carolina Public Administration Alliance (NCPSA-NCPAA) Joint Conference. Wilmington, North Carolina, US, March 2023.
+  
   <img src="images/Article 1_ billboard presentation_ha vien.jpg?raw=true"/>
+  
 - Vien, Ha B. and Galik, C. (2023). Relationships and Spillovers: Higher Education Institutions and the Adoption of Community Sustainability Practices. The 11th Annual International Conference on Sustainable Development (ICSD). Hybrid, US. September 2023 (Incoming).
 
 ----
@@ -108,7 +110,9 @@ School of Public and International Affairs, Department of Public Administration
 - Faculty Searching Workshop 2023
 
 [ARNOVA - 51st Annual Conference, 2022](https://www.arnova.org/2022-annual-conference/)
+
 <img src="images/arnova 1.jfif?raw=true"/>
+
 <img src="images/arnova 2.jfif?raw=true"/>
 
 [NCSU Science Policy Club (SciPolPack)](https://sites.google.com/ncsu.edu/scipolpack-ncsu/home/)					
