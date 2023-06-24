@@ -4,7 +4,7 @@
 
 ### Education
 
-[Project 1 Title](/sample_page)
+[Ph.D. 			North Carolina State University (In Progress) 	                    2022-present](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
