@@ -5,15 +5,15 @@
 ### Education
 
 [Ph.D.- North Carolina State University (In Progress) 2022-present](https://chass.ncsu.edu/people/bvien/)
-[- Department of Public Administration]
-[- Fields: Sustainability, Environmental/Energy Policy, Public and Non-profit Management]
+- Department of Public Administration
+- Fields: Sustainability, Environmental/Energy Policy, Public and Non-profit Management
 [- Advisor: Dr. Christopher Galik](https://chass.ncsu.edu/people/csgalik/)
 
 ---
 [MPA - Indiana University, Bloomington - 2017-2019](https://oneill.indiana.edu/masters/degrees-certificates/public-affairs/index.html/)
-[- Paul H. O’Neill School of Public and Environmental Affairs]
-[- #1 Best Graduate School for Public Affairs by US News and World Report]
-[- Concentration: Public Policy Analysis and International Development]
+- Paul H. O’Neill School of Public and Environmental Affairs
+- #1 Best Graduate School for Public Affairs by US News and World Report
+- Concentration: Public Policy Analysis and International Development
 [- Capstone: "Sustainable Brewing: Projects and Practices for Switchyard Brewing Company" - Advisor: Dr. Sanya Carley](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/carley-sanya.html/)
 
 ---
