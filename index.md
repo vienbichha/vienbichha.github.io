@@ -18,7 +18,7 @@
 
 ---
 [B.A. - National Economics University, Hanoi - 2014](https://en.neu.edu.vn/)
-- Concentration: Business Administration
+- Concentration: Economics and Business Administration
 
 ---
 [B.A. - Vietnam National University, Hanoi - 2005](https://en.ulis.vnu.edu.vn/)  
