@@ -132,7 +132,7 @@ Please reach out if you are interested in collaborating.
 - Department of Public Administration,
   School of Public and International Affairs,  
   North Carolina State University.
-- [2221 Hillsborough St, Raleigh, NC 27607](https://www.google.com/maps/place/Caldwell+Hall,+2221+Hillsborough+St,+Raleigh,+NC+27607/@35.7868146,-78.6682923,17z/data=!3m1!4b1!4m6!3m5!1s0x89acf58dc95ce163:0xd5808adb8b83a1ad!8m2!3d35.7868103!4d-78.6657174!16s%2Fg%2F1v44r8s3?entry=ttu/)
+- [122 Winston Hall, 2221 Hillsborough St, Raleigh, NC 27607](https://www.google.com/maps/place/Caldwell+Hall,+2221+Hillsborough+St,+Raleigh,+NC+27607/@35.7868146,-78.6682923,17z/data=!3m1!4b1!4m6!3m5!1s0x89acf58dc95ce163:0xd5808adb8b83a1ad!8m2!3d35.7868103!4d-78.6657174!16s%2Fg%2F1v44r8s3?entry=ttu/)
 - bvien@ncsu.edu
 ---
 
