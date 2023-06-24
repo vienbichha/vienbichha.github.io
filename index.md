@@ -4,7 +4,7 @@
 
 ### Education
 
-[Ph.D. 			North Carolina State University (In Progress) 	                    2022-present](/[https://chass.ncsu.edu/people/bvien/])
+[Ph.D. 			North Carolina State University (In Progress) 	                    2022-present](/https://chass.ncsu.edu/people/bvien/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
