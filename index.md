@@ -109,6 +109,7 @@ School of Public and International Affairs, Department of Public Administration
 
 [ARNOVA - 51st Annual Conference, 2022](https://www.arnova.org/2022-annual-conference/)
 <img src="images/arnova 1.jfif?raw=true"/>
+<img src="images/arnova 2.jfif?raw=true"/>
 
 [NCSU Science Policy Club (SciPolPack)](https://sites.google.com/ncsu.edu/scipolpack-ncsu/home/)					
 - Co-President 2023-2024
