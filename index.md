@@ -107,7 +107,7 @@ School of Public and International Affairs, Department of Public Administration
 - Ph.D. Student Peer Mentor	2023 – 2024
 - Faculty Searching Workshop 2023
 
-[ARNOVA - 51st Annual Conference, 2022]
+[ARNOVA - 51st Annual Conference, 2022](https://www.arnova.org/2022-annual-conference/)
 <img src="images/arnova 1.jfif?raw=true"/>
 
 [NCSU Science Policy Club (SciPolPack)](https://sites.google.com/ncsu.edu/scipolpack-ncsu/home/)					
