@@ -14,7 +14,7 @@
 - Paul H. O’Neill School of Public and Environmental Affairs
 - #1 Best Graduate School for Public Affairs by US News and World Report
 - Concentration: Public Policy Analysis and International Development
-- Capstone: "Sustainable Brewing: Projects and Practices for Switchyard Brewing Company" [- Advisor: Dr. Sanya Carley](https://www.design.upenn.edu/people/sanya-carley)]
+- Capstone: "Sustainable Brewing: Projects and Practices for Switchyard Brewing Company" [- Advisor: Dr. Sanya Carley](https://www.design.upenn.edu/people/sanya-carley/)
 
 ---
 [B.A. - National Economics University, Hanoi - 2014](https://en.neu.edu.vn/)
